@@ -1,0 +1,5 @@
+model,compared_with,spearman_rho,shuffle_p,n
+augite,EBSD augite %,0.38333333333333336,0.29163541822908856,9
+magnetite,EBSD Fe-Ti oxides + ilmenite %,0.6833333333333333,0.04439778011099445,9
+zeolite (stilbite),1.9 µm water feature,0.9333333333333332,0.00044997750112494374,9
+zeolite (stilbite),feldspar CSD characteristic length (µm),0.6333333333333333,0.0752462376881156,9

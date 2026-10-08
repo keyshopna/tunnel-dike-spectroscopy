@@ -1,0 +1,5 @@
+pool,mean_rms_misfit
+final: augite + magnetite + zeolite,0.004714944203452801
+augite + magnetite + saponite (clay),0.005731592541042699
+"final + plagioclase, ilmenite, chlorite",0.004706517200445095
+augite + zeolite (no magnetite),0.0114864273029733
